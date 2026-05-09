@@ -69,8 +69,8 @@ Project projects[] = {
 
 <div align="center">
 
-<img src="https://media1.tenor.com/m/gODMsxbMk4MAAAAC/cat-typing.gif" width="280"/>
-<img src="https://media1.tenor.com/m/wnFyvCuG7EkAAAAC/cat-computer.gif" width="280"/>
+<img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="280"/>
+<img src="https://media.giphy.com/media/mlvseq9yvZhba/giphy.gif" width="280"/>
 
 *"Works on my machine" — Every Developer Ever*
 
